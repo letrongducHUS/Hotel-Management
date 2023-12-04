@@ -1,3 +1,5 @@
+Họ tên: Lê Trọng Đức
+Mã sinh viên: 21001546
 - Goals:
 + Cung cấp một phần mềm quản lí khách sạn hiệu quả và tiện lợi để tăng cường quản lí và cung cấp dịch vụ chất lượng cho khách hàng.
 + Tăng cường trải nghiệm khách hàng và tạo sự hài lòng cho khách hàng khi sử dụng dịch vụ khách sạn.
