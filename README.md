@@ -1,10 +1,10 @@
 Họ tên: Lê Trọng Đức
 Mã sinh viên: 21001546
-- Goals:
+- Mục đích:
 + Cung cấp một phần mềm quản lí khách sạn hiệu quả và tiện lợi để tăng cường quản lí và cung cấp dịch vụ chất lượng cho khách hàng.
 + Tăng cường trải nghiệm khách hàng và tạo sự hài lòng cho khách hàng khi sử dụng dịch vụ khách sạn.
 + Tối ưu hóa quản lí khách sạn và tăng hiệu suất kinh doanh.
-- Business objectives:
+- Mục tiêu kinh doanh:
 + Cung cấp khả năng tìm phòng trống và đặt phòng nhanh chóng để đáp ứng yêu cầu của khách hàng.
 + Hỗ trợ nhân viên lễ tân trong việc checkin, checkout và thanh toán cho khách hàng một cách thuận tiện và chính xác.
 + Cung cấp các báo cáo doanh thu và thông tin phòng để giúp quản lí hiểu rõ tình hình kinh doanh và đưa ra quyết định thông minh.
